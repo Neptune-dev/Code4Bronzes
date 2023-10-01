@@ -1,6 +1,6 @@
 # Code4Bronzes
 
-Bienvennue sur ce repo !!
+Bienvenue sur ce repository !!
 
 Vous trouverez ici des tutos écrits pour apprendre à **coder** un peu (pour l'instant seulement en python).
 
